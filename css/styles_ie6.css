@@ -1,0 +1,68 @@
+#navbar ul li{
+display: inline;
+}
+
+#rightcolumn-ballons{
+position:absolute;
+top:0px;
+right:0px;
+width:677px; 
+height:659px;
+background: url(../images/clouds.gif) no-repeat right center; 
+z-index:-100;
+}
+
+#ballonlanding{
+background: transparent url(../images/ballons-right.gif) no-repeat center bottom; 
+}
+
+#ballonflying{
+background: transparent url(../images/up-ballon.gif) no-repeat center bottom;
+}
+
+#navbar ul li a:hover{
+color:#ffc71f;
+background: url(../images/nav_bg.gif) no-repeat right top;
+}
+
+#navbar ul li a.active{
+color:#ffc71f;
+background: url(../images/nav_bg.gif) no-repeat right top;
+}
+
+ 
+h1{
+font-size: 1.5em;
+text-transform: uppercase;
+color:#4c8dd1;
+margin-bottom: 0px;
+line-height: 1em;
+letter-spacing: -1px;
+background: url(../images/nav_bg.png) -repeat;
+clear: both;
+}
+
+h2{
+line-height: .5em;
+}
+
+ 
+#callout{
+float:left;
+color: #ff0000;
+font-weight: 700;
+text-transform: capitalize;
+margin-left: 0px;
+margin-top:116px;
+width:150px; 
+}
+
+.story{
+display:block;
+margin-bottom: 10px;
+border: 0px transparent solid;
+}
+
+#contentWrap{
+margin-top: 100px;
+}
