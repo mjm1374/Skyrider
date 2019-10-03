@@ -5,7 +5,7 @@
 <head>
 	<title>Sky Riders balloon Pilots</title>
 	<meta content="balloon flight,balloon ride,hot air balloon,balloon PA, hot air balloon rides,hot air balloon flights,ballooning,balloon,Philadelphia,Trappe,Sky Riders,air balloon,balloon montgomery county,skyriders" name="Keywords">
-	
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<meta http-equiv="Content-Type" content="text/html; charset=unicode">
 	<link rel="profile" href="http://microformats.org/profile/hcard">
 	<meta name="description" content="Sky Riders hot air balloon team pilots, balloon crew">
@@ -25,7 +25,10 @@
 	<!--[if IE 6]>
 		<link rel="STYLESHEET" type="text/css" href="css/styles_ie6.css">
 	<![endif]-->
-	<script src="js/jquery-1.4.2.min.js" type="text/javascript"></script>
+	<script
+  src="https://code.jquery.com/jquery-3.4.1.min.js"
+  integrity="sha256-csxorxvzctkaix6yvo6hppczgetbymgwsflbw8hfcjo="
+  crossorigin="anonymous"></script>
 </head>
 
 <body>

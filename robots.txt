@@ -1,4 +1,4 @@
 User-agent: *
-Disallow: http://www.skyridersballoon.com/34fs1.JPG
+Disallow: /34fs1.JPG
 User-agent: *
-Disallow: http://www.skyridersballoon.com/crewzone.pdf
+Disallow: /crewzone.pdf
