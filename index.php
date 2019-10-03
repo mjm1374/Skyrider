@@ -1,99 +1,125 @@
-<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
-<?php
+<!DOCTYPE html>
 
-
-
-$pageset = "home-page.php";
-
-if (isset($_GET['pg']) && $_GET['pg'] != "") {
-	$pageset = $_GET['pg'];
-}
-
-?>
-<html>
+<html lang="en">
 
 <head>
-	<meta name="google-site-verification" content="slGfR9sw0TRc9COLxotzGJb7i_C9eM832_Rl6lNxwUQ" />
-	<meta name="Keywords" content="balloon flight, balloon ride, hot air balloon, Pennsylvania, PA, hot air balloon rides, hot air balloon flights, ballooning, balloon, Philadelphia, Trappe, Sky Riders">
-	<meta name="Description" content="Hot Air Balloon Rides in Montgomery county, PA with the Sky Riders Balloon Team - Because there is nothing like it...">
-	<meta http-equiv="content-type" content="text/html; charset=UTF-8">
-	<title>Sky Riders Balloon Team Home</title>
-	<link href="style.css" rel="stylesheet" type="text/css">
+	<title>Sky Riders balloon Home</title>
+	<meta content="balloon flight,balloon ride,hot air balloon,balloon PA, hot air balloon rides,hot air balloon flights,ballooning,balloon,Philadelphia,Trappe,Sky Riders,air balloon,balloon montgomery county,skyriders" name="Keywords">
+	<meta content="Sky Riders hot air balloon team pilots, balloon crew" name="Description">
+	<meta http-equiv="Content-Type" content="text/html; charset=unicode">
+	<meta name="description" content="Sky Riders hot air balloon team pilots, balloon crew">
+	<meta name="image" content="http://www.skyridersballoon.com/images/sun.jpg">
+	<!-- Schema.org for Google -->
+	<meta itemprop="name" content="Sky Rider Ballon Tours">
+	<meta itemprop="description" content="Sky Riders hot air balloon team pilots, balloon crew">
+	<meta itemprop="image" content="http://www.skyridersballoon.com/images/sun.jpg">
+	<!-- Open Graph general (Facebook, Pinterest & Google+) -->
+	<meta name="og:title" content="Sky Rider Ballon Tours">
+	<meta name="og:description" content="Sky Riders hot air balloon team pilots, balloon crew">
+	<meta name="og:image" content="http://www.skyridersballoon.com/images/sun.jpg">
+	<meta name="og:url" content="http://www.skyridersballoon.com">
+	<meta name="og:site_name" content="Sky Rider Ballon Tours">
+	<meta name="og:type" content="website">
 
-	<script type="text/javascript">
-		function reportSize() {
-			myHeight = document.documentElement.clientHeight;
-			newHeight = myHeight + 15;
-			//alert(myHeight + " x " + newHeight);
-			document.getElementById("mainframe").style.height = newHeight;
-		}
+	<link rel="profile" href="http://microformats.org/profile/hcard">
+	<link href="css/styles.css" type="text/css" rel="stylesheet">
+	<!--[if IE 6]>
+		<link rel="STYLESHEET" type="text/css" href="css/styles_ie6.css">
+	<![endif]-->
+	<script src="js/jquery-1.4.2.min.js" type="text/javascript"></script>
+	<script src="js/jquery.colorbox-min.js"></script>
+
+	<script>
+		$(document).ready(function() {
+
+			$("#galtrigger").click(function() {
+				$("a[rel='galleryimg']").colorbox({
+					transition: "fade",
+					slideshow: true,
+					open: true,
+					xhrError: true
+				});
+
+			});
+		});
 	</script>
-	<style>
-		<style type="text/css">audio::-internal-media-controls-download-button {
-			display: none;
-		}
-
-		audio::-webkit-media-controls-enclosure {
-			overflow: hidden;
-		}
-
-		audio::-webkit-media-controls-panel {
-			width: calc(100% + 30px);
-			/* Adjust as needed */
-		}
-
-		body {
-			/*	margin: 0; */
-			margin: 0px 0 24px 0;
-			padding: 0;
-			/*	padding: 100px 0 50px 0; */
-			color: #000;
-			background: url(images/px.gif)
-		}
-
-		/*
-	va in IE, Fx, Op (iframe height prende altezza windows, escluso margin/padding body).
-	No in Sf (iframe height uguale intera altezza windows)
-*/
-		iframe {
-			height: 100%;
-			width: 100%;
-			border: 0 none;
-		}
-
-		* html body {
-			overflow-y: hidden;
-		}
-
-		#head,
-		#foot {
-			position: absolute;
-			width: 100%;
-			left: 0;
-		}
-
-		#foot {
-			height: 24px;
-			bottom: 0;
-
-		}
-	</style>
 </head>
 
 <body>
-	<iframe id="mainframe" src="<?php echo ($pageset); ?>"></iframe>
 
-	<div id="foot">
+	<div id="rightcolumn" class="right"></div>
 
-		<audio id="music" controls>
+	<div id="leftcolumn" class="left"></div>
+	<div id="maincontainer">
+		<div id="navbar">
+			<ul>
+				<li><a href="index.php" class="active">HOME</a></li>
+				<li><a href="pilots-profiles.php">PILOTS</a></li>
+				<li><a href="balloons.php">BALLOONS</a></li>
+				<li><a href="balloons-flights.php">FLIGHTS</a></li>
+				<li><a href="ballooning-faq.php">FAQs</a></li>
+				<li><a href="contact-skyrider.php">CONTACT</a></li>
+			</ul>
+		</div>
+		<div id="logo">
 
-			<source src="audio/music.mp3" type="audio/mpeg">
-			Your browser does not support the audio element.
-		</audio>
+			<img src="images/logo.jpg" width="253" height="137" alt="Sky Rider Balloon Tours" border="0" align="left" />
+			<div id="callout">balloon Team</div>
+		</div>
+		<div id="contentarea">
+			<div class="story">
+				<h1>Welcome</h1>
+				<h2>To "Hot Air" World!</h2>
+				<div class="contentbox">
+
+					<div class="storybox">
+						<p>The <span class="org">Sky Riders</span> fly a balloon in Montgomery county, PA.</p>
+
+						<p>A balloon flight is a fantastic experience. You gently float like a soap
+							bubble, carried by a slow breeze, over rolling hills and forests.
+							Sometimes you are high enough to see the Philadelphia skyline,
+							sometimes you are low enough to brush the top of the trees, watch
+							the wildlife and talk to people.</p>
+
+						<p class="right">And you wonder... What took me so long? </p>
+					</div>
+
+
+				</div>
+			</div>
+			<div class="story">
+				<h1>Come Fly with Us</h1>
+				<h2>Experience the magic</h2>
+				<div class="contentbox">
+					<table>
+						<tr>
+							<td><img src="images/pic.jpg" width="183" height="146" alt="Call Now - 484 744 3161" border="0" class="left" /></td>
+							<td><img src="images/pic1.jpg" width="251" height="165" alt="ballooning photographs" border="0" /></td>
+						</tr>
+					</table>
+
+
+
+
+					<ul class="threelinks">
+						<li> >> <a href="more-about-crewing-a-balloon.php">Crew Page</a> </li>
+						<li> >> <a href="http://www.usairnet.com/cgi-bin/launch/code.cgi?Submit=Go&sta=KPTW&state=PA" target="_blank">3 day forecast</a> </li>
+						<li> >> <a href="javascript:void(0);" id="galtrigger">more photos</a> </li>
+					</ul>
+				</div>
+			</div>
+		</div>
+
+
+
 
 	</div>
+	<div id="footer">
+		SkyRidersBalloon.Com &copy; 2008 - 2010
+	</div>
 
-	<script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha256-pasqAKBDmFT4eHoN2ndd6lN370kFiGUFyTiUHWhU7k8=" crossorigin="anonymous"></script>
+	</div>
+	<?php include 'gallery.html'; ?>
 	<script type="text/javascript">
 		var _gaq = _gaq || [];
 		_gaq.push(['_setAccount', 'UA-19260420-1']);
@@ -106,31 +132,7 @@ if (isset($_GET['pg']) && $_GET['pg'] != "") {
 			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 			var s = document.getElementsByTagName('script')[0];
 			s.parentNode.insertBefore(ga, s);
-
-
-
 		})();
-
-		$(function() {
-			var x = document.getElementById("music");
-
-			var playPromise = x.play();
-
-			if (playPromise !== undefined) {
-				playPromise.then(_ => {
-						// Automatic playback started!
-						// Show playing UI.
-						x.play();
-						 
-					})
-					.catch(error => {
-						// Auto-play was prevented
-						// Show paused UI.
-						 
-						setTimeout(x.play(), 1000);
-					});
-			}
-		});
 	</script>
 </body>
 

@@ -1,12 +1,25 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
 
-<html>
+<html lang="en">
 
 <head>
 	<title>Sky Riders balloon Pilots</title>
 	<meta content="balloon flight,balloon ride,hot air balloon,balloon PA, hot air balloon rides,hot air balloon flights,ballooning,balloon,Philadelphia,Trappe,Sky Riders,air balloon,balloon montgomery county,skyriders" name="Keywords">
 	<meta content="Sky Riders hot air balloon team pilots, balloon crew" name="Description">
 	<meta http-equiv="Content-Type" content="text/html; charset=unicode">
+	<meta name="description" content="Sky Riders hot air balloon team pilots, balloon crew">
+	<meta name="image" content="http://www.skyridersballoon.com/images/sun.jpg">
+	<!-- Schema.org for Google -->
+	<meta itemprop="name" content="Sky Rider Ballon Tours">
+	<meta itemprop="description" content="Sky Riders hot air balloon team pilots, balloon crew">
+	<meta itemprop="image" content="http://www.skyridersballoon.com/images/sun.jpg">
+	<!-- Open Graph general (Facebook, Pinterest & Google+) -->
+	<meta name="og:title" content="Sky Rider Ballon Tours">
+	<meta name="og:description" content="Sky Riders hot air balloon team pilots, balloon crew">
+	<meta name="og:image" content="http://www.skyridersballoon.com/images/sun.jpg">
+	<meta name="og:url" content="http://www.skyridersballoon.com">
+	<meta name="og:site_name" content="Sky Rider Ballon Tours">
+	<meta name="og:type" content="website">
 
 	<link rel="profile" href="http://microformats.org/profile/hcard">
 	<link href="css/styles.css" type="text/css" rel="stylesheet">
@@ -24,7 +37,7 @@
 	<div id="maincontainer">
 		<div id="navbar">
 			<ul>
-				<li><a href="home-page.php">HOME</a></li>
+				<li><a href="index.php">HOME</a></li>
 				<li><a href="pilots-profiles.php" class="active">PILOTS</a></li>
 				<li><a href="balloons.php">BALLOONS</a></li>
 				<li><a href="balloons-flights.php">FLIGHTS</a></li>

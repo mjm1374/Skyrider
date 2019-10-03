@@ -1,6 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!DOCTYPE html>
 
-<html>
+<html lang="en">
 <head>
 <title>Sky Riders balloon Pilots</title>
 <meta content="balloon flight,balloon ride,hot air balloon,balloon PA, hot air balloon rides,hot air balloon flights,ballooning,balloon,Philadelphia,Trappe,Sky Riders,air balloon,balloon montgomery county,skyriders" name="Keywords">
@@ -32,12 +32,12 @@ $(document).ready(function(){
 <div id="maincontainer">
 	<div id="navbar">
 		<ul>
-			<li><a href="home-page.php">HOME</a></li><li><a href="pilots-profiles.php">PILOTS</a></li><li><a href="balloons.php">BALLOONS</a></li><li><a href="balloons-flights.php" class="active">FLIGHTS</a></li><li><a href="ballooning-faq.php">FAQs</a></li><li><a href="contact-skyrider.php">CONTACT</a></li>			
+			<li><a href="index.php">HOME</a></li><li><a href="pilots-profiles.php">PILOTS</a></li><li><a href="balloons.php">BALLOONS</a></li><li><a href="balloons-flights.php" class="active">FLIGHTS</a></li><li><a href="ballooning-faq.php">FAQs</a></li><li><a href="contact-skyrider.php">CONTACT</a></li>			
 		</ul>
 	</div>
 	<div id="logo">
 		
-		<img src="images/logo.jpg" width="253" height="137" alt="" border="0" align="left"/>
+		<img src="images/logo.jpg" width="253" height="137" alt="Sky Rider Balloon Tours" border="0" align="left"/>
 		<div id="callout">balloon Team</div>
 	</div>
 	<div id="contentarea">
