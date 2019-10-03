@@ -5,7 +5,7 @@
 <head>
 	<title>Sky Riders balloon Pilots</title>
 	<meta content="balloon flight,balloon ride,hot air balloon,balloon PA, hot air balloon rides,hot air balloon flights,ballooning,balloon,Philadelphia,Trappe,Sky Riders,air balloon,balloon montgomery county,skyriders" name="Keywords">
-	<meta content="Sky Riders hot air balloon team pilots, balloon crew" name="Description">
+	
 	<meta http-equiv="Content-Type" content="text/html; charset=unicode">
 	<meta name="description" content="Sky Riders hot air balloon team pilots, balloon crew">
 	<meta name="image" content="http://www.skyridersballoon.com/images/sun.jpg">
@@ -51,16 +51,7 @@
 
 	<div id="leftcolumn" class="left"></div>
 	<div id="maincontainer">
-		<div id="navbar">
-			<ul>
-				<li><a href="index.php">HOME</a></li>
-				<li><a href="pilots-profiles.php">PILOTS</a></li>
-				<li><a href="balloons.php" class="active">BALLOONS</a></li>
-				<li><a href="balloons-flights.php">FLIGHTS</a></li>
-				<li><a href="ballooning-faq.php">FAQs</a></li>
-				<li><a href="contact-skyrider.php">CONTACT</a></li>
-			</ul>
-		</div>
+		<?php include_once('nav.php') ?>
 		<div id="logo">
 
 			<img src="images/logo.jpg" width="253" height="137" alt="Sky Rider Balloon Tours" border="0" align="left" />
@@ -122,9 +113,7 @@
 
 		</div>
 		<br><br clear=all>
-		<div id="footer">
-			SkyRidersBalloon.Com &copy; 2008 - 2010
-		</div>
+		<?php include_once('footer.php') ?>
 
 	</div>
 	<?php include 'gallery.html'; ?>

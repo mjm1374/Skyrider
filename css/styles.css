@@ -275,6 +275,8 @@ border-top:1px solid #ffffff;
 font-size:.7em;
 clear:both;
 margin-bottom:50px;
+position: relative;
+bottom: 0px;
 }
 
 
