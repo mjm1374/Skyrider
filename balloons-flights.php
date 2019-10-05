@@ -10,15 +10,15 @@
 	<meta name="description" content="Sky Riders hot air balloon team pilots, balloon crew">
 	<meta name="image" content="http://www.skyridersballoon.com/images/sun.jpg">
 	<!-- Schema.org for Google -->
-	<meta itemprop="name" content="Sky Rider Ballon Tours">
+	<meta itemprop="name" content="Sky Riders Balloon Tours">
 	<meta itemprop="description" content="Sky Riders hot air balloon team pilots, balloon crew">
 	<meta itemprop="image" content="http://www.skyridersballoon.com/images/sun.jpg">
 	<!-- Open Graph general (Facebook, Pinterest & Google+) -->
-	<meta name="og:title" content="Sky Rider Ballon Tours">
+	<meta name="og:title" content="Sky Riders Balloon Tours">
 	<meta name="og:description" content="Sky Riders hot air balloon team pilots, balloon crew">
 	<meta name="og:image" content="http://www.skyridersballoon.com/images/sun.jpg">
 	<meta name="og:url" content="http://www.skyridersballoon.com">
-	<meta name="og:site_name" content="Sky Rider Ballon Tours">
+	<meta name="og:site_name" content="Sky Riders Balloon Tours">
 	<meta name="og:type" content="website">
 	<link rel="profile" href="http://microformats.org/profile/hcard">
 	<link href="css/styles.css" type="text/css" rel="stylesheet">
@@ -53,13 +53,13 @@
 		<div id="logo">
 
 			<img src="images/logo.jpg" width="253" height="137" alt="" border="0" align="left" />
-			<div id="callout">balloon Team</div>
+			<div id="callout">Balloon Team</div>
 		</div>
 		<div id="contentarea">
 
 			<div class="story">
 				<h1>Your Balloon Adventure</h1>
-				<h2>balloons flights from trappe, PA</h2>
+				<h2>balloon flights from trappe, PA</h2>
 				<div class="contentbox">
 
 					<div class="storybox">

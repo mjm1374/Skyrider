@@ -28,7 +28,7 @@
 	<div id="logo">
 		
 		<img src="images/logo.jpg" width="253" height="137" alt="Sky Rider Balloon Tours" border="0" align="left"/>
-		<div id="callout">balloon Team</div>
+		<div id="callout">Balloon Team</div>
 	</div>
 	<div id="contentarea">
 	<div class="story">

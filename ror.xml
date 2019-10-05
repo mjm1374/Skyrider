@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://www.skyridersballoon.com/</title>
+  <link>http://www.skyridersballoon.com/</link>
+
+<item>
+     <link>http://www.skyridersballoon.com/</link>
+     <title>Sky Riders balloon Home</title>
+     <description>Sky Riders hot air balloon team pilots, balloon crew</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.skyridersballoon.com/index.php</link>
+     <title>Sky Riders balloon Home</title>
+     <description>Sky Riders hot air balloon team pilots, balloon crew</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.skyridersballoon.com/pilots-profiles.php</link>
+     <title>Sky Riders balloon Pilots</title>
+     <description>Sky Riders hot air balloon team pilots, balloon crew</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.skyridersballoon.com/balloons.php</link>
+     <title>Sky Riders balloon Pilots</title>
+     <description>Sky Riders hot air balloon team pilots, balloon crew</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.skyridersballoon.com/balloons-flights.php</link>
+     <title>Sky Riders balloon Pilots</title>
+     <description>Sky Riders hot air balloon team pilots, balloon crew</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.skyridersballoon.com/ballooning-faq.php</link>
+     <title>Sky Riders balloon Pilots</title>
+     <description>Sky Riders hot air balloon team pilots, balloon crew</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.skyridersballoon.com/contact-skyrider.php</link>
+     <title>Sky Riders balloon Pilots</title>
+     <description>Sky Riders hot air balloon team pilots, balloon crew</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.skyridersballoon.com/more-about-crewing-a-balloon.php</link>
+     <title>Sky Riders balloon Pilots</title>
+     <description>Sky Riders hot air balloon team pilots, balloon crew</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.skyridersballoon.com/how-a-balloon-works.php</link>
+     <title>Sky Riders balloon Pilots</title>
+     <description>Sky Riders hot air balloon team pilots, balloon crew</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://www.skyridersballoon.com/directions.php</link>
+     <title>Sky Riders balloon Pilots</title>
+     <description>Sky Riders hot air balloon team pilots, balloon crew</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>2</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
