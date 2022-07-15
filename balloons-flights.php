@@ -69,9 +69,10 @@
 						<p>Trappe Village is located in <span class="locality">Montgomery county</span>, <span class="region">PA</span> near Collegeville. </p>
 
 						<div id="pricecallout">
-							<div class="yellow upper indent30">CHAMPAGNE FLIGHT per person <div class="right"> $275</div>
-								<br /><span class="smalltype">Max 4 passengers per balloon</span></div><br />
-							<div class="yellow upper indent30">CHAMPAGNE FLIGHT FOR 2 <div class="right"> $675</div>
+							<div class="yellow upper indent30">CHAMPAGNE FLIGHT per person <div class="right"> $350</div>
+								<br /><span class="smalltype">Max 4 passengers per balloon</span>
+							</div><br />
+							<div class="yellow upper indent30">CHAMPAGNE FLIGHT FOR 2 <div class="right"> $900</div>
 							</div>
 							<div class="red  indent30">JUST YOU AND THE PILOT</div>
 
